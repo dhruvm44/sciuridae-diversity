@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+data/raw/*
+data/processed/*.rds
+results/figures/*.png
+results/outputs/*.rds
