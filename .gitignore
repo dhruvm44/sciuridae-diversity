@@ -5,3 +5,5 @@ data/raw/*
 data/processed/*.rds
 results/figures/*.png
 results/outputs/*.rds
+report/*.html
+documentation/*.tmp
